@@ -1,0 +1,19 @@
+.review-user {
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 8px;
+    margin-top: 21px;
+    width: 571px;
+
+}
+
+.review-user img {
+    width: 91px;
+}
+
+.review-detail {
+    margin: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,12 @@
+.headline {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+}
+
+.image-container img {
+    border-radius: 10px;
+}
+
+.text-container {
+    margin-top: 50px;
+}

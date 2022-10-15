@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "comment": "Easy to use and best for online business advertisment and marketing. Good for live chat, videos and other features.",
+        "name": "Ashraful Suhag",
+        "ratings": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTncxHwv7BXAjmaSBtTzrsp1mVdUkJGEKrUuA&usqp=CAU",
+        "quantity": 0
+    },
+    {
+        "id": "2",
+        "comment": "Best website for sales and marketing and it provides automation.",
+        "name": "Ashraful Suhag",
+        "ratings": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN1TxWGPfaC1jI69SN_CQoGz9rFgX1rRHhDQ&usqp=CAU",
+        "quantity": 0
+    },
+    {
+        "id": "3",
+        "comment": "Sync all our communication of marketing & sale teams in one space and be able to send out different types of campaigns to different groups of customers.",
+        "name": "Ashraful Suhag",
+        "ratings": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR5J7EtV_G5EXmTehZdvEwS78bhOxH7owj5WmTdGUsi926XogrKlM8Oza4qr4VafWVKGY&usqp=CAU",
+        "quantity": 0
+    },
+    {
+        "id": "4",
+        "comment": "Very easy to use and set up is simple. I can easily provide live support to my website visitors in real-time. It also provides many integrations.",
+        "name": "Ashraful Suhag",
+        "ratings": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdSjfL3aordRoKB2M7vlr_EikvKumOd1SOmbe8jBYaNMJclFOeYZLCZ12MpZ4XTHgpY8&usqp=CAU",
+        "quantity": 0
+    },
+    {
+        "id": "5",
+        "comment": "It is very intuitive. It's fresh design invites you to work on the platform. I like how it lets you map user journeys and message them strategically",
+        "name": "Ashraful Suhag",
+        "ratings": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK547RjTbeyqVANOiXgRNRZGfjU5x-aLgkX3DefQA3jE1CK0wIZtY32a7hU6vNj59Pxlc&usqp=CAU",
+        "quantity": 0
+    },
+    {
+        "id": "6",
+        "comment": "I like the looks of this app and the ease that you can start using it.",
+        "name": "Ashraful Suhag",
+        "ratings": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUGOMQhahzahMDo7Yu-uK4r7aiDwdLbVKPzSaOPdo2pyxnngi8Q3MX19U1hrVsV9SIWYQ&usqp=CAU",
+        "quantity": 0
+    }
+]
